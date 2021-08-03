@@ -5,6 +5,7 @@
 <html>
 {% include head.html %}
 <body>
+	<p>test</p>
 	{% assign target = "target" %}
 	<ul class="grid" id="{{ target }}">
 		{% assign images = page.images | default: site.static_files | photo_filter %}
