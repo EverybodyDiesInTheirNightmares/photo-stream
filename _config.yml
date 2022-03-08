@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 热河影像集
+title: 双绞麻痹
 email: 
 author:
   name: citizen5
   email: #optional
-  website: https://hismaplestory.online
+  website: https://numb.tech
 description: >- # this means to ignore newlines until "baseurl:"
   @citizen5's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gallery.hismaplestory.online" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gallery.numb.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: null
 github_username: null
 instagram_username: null
